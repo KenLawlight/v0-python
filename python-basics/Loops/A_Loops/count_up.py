@@ -1,0 +1,7 @@
+def count_up(max_num):
+    for i in range(1, max_num + 1):
+        print(i)
+
+count_up(5)
+count_up(3)
+
