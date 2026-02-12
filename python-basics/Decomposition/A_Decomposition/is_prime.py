@@ -11,9 +11,9 @@ def is_prime(n):
     return True
 
 print(is_prime(11))  
-print(is_prime(8))   
-print(is_prime(7))  
-print(is_prime(21))
+print(is_prime(8))  
+print(is_prime(7))   
+print(is_prime(21))  
 print(is_prime(2))  
 print(is_prime(15)) 
 print(is_prime(1)) 
